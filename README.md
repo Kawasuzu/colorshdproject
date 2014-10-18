@@ -10,4 +10,4 @@ How to install:
 3. Go to the Load folder.
 4. Go to the Textures folder.
 5. Extract what Sonic Colors version you have (SNCE8P = USA) to the folder.
-6. Done!
+6. You're done! Just boot up Dolphin and play Sonic Colors with HD textures.
