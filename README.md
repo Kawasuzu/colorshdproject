@@ -1,7 +1,7 @@
 Sonic Colors HD Texture Project
 ===============
 
-This Dolphin texture project is aimed to making Sonic Colors much more beautiful.
+This Dolphin texture project is aimed to making Sonic Colors actually look HD.
 
 How to install:
 
