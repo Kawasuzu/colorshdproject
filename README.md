@@ -9,5 +9,5 @@ How to install:
 2. Go to the Dolphin Emulator folder.
 3. Go to the Load folder.
 4. Go to the Textures folder.
-5. Extract what Sonic Colors version you have (SNCE8P = USA) to the folder.
+5. Extract the SNCE8P folder into the textures folder. (rename it if necessary)
 6. You're done! Just boot up Dolphin and play Sonic Colors with HD textures.
